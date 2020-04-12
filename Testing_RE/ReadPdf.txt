@@ -1,0 +1,169 @@
+Allscripts - Printable Review Referral Page 1 of 3
+VITAS Healthcare - Dade-Monroe
+Printable Discharge Form Johnny Acosta -- 1/16/2020 4:45:28 PM
+Site Name Assigned Last Activity Date Respond by Date Response Status
+VITAS Healthcare - Dade-Monroe  Unassigned  1/16/2020 4:37 PM (ET)  1/17/2020 9:36 AM (ET)  Waiting for your response 
+Sender Name Response Received Response Reason Comment
+Rosie Perez 1/16/2020 4:37 PM (ET)  Yes, willing to accept patient Thank you. Accept pending clinical evaluation. 
+Referral Information - Referral # 54736405 - MRN: 2835899 - GLADYS JACKSON
+Sending Organization:  Jackson Health System 
+Referral ID:  54736405  Referral Type:  Hospice 
+Date First Sent:  1/16/2020 4:37 PM (ET)  Most Recent Revision:  1/16/2020 4:37 PM (ET) 
+Respond by Date:  1/17/2020 9:36 AM (ET) 
+Primary Referral Category:  Primary Referral Reason: 
+Referral Comments 
+Please evaluate for hospice. Thanks. 
+Sender's last activity:  1/16/2020 4:37 PM (ET)  Your last activity:  1/16/2020 4:37 PM (ET) 
+Contact Information
+Kerline Nortelus
+Phone: (305) 654-3093 
+Patient Information - Referral # 54736405 - MRN: 2835899 - GLADYS JACKSON
+Name:  GLADYS B JACKSON  MRN:  2835899 
+Date of Birth:  4/16/1924 ( 90+ years)  Gender:  Female 
+Address:  2231 RUTLAND STREET Home: (305) 681-7705
+OPA LOCKA, FL 33054  Work:
+Alt: 
+Marital Status:  Divorced  SSN:  267-30-6918 
+Race:  Black  Race 2: 
+Religion:  Baptist 
+Emergency Contact 1:    DEMITA BRIDGES CURRY Home: (786) 252-6680
+16929 NW 14TH AVENUE
+MIAMI, FL 33169 
+Emergency Contact 2:    DIANA HART Home: (305) 681-7705
+2231 RUTLAND STREET
+OPA LOCKA, FL 33054 
+Admission Information - Referral # 54736405 - MRN: 2835899 - GLADYS JACKSON
+Account #:  40017380686  Patient Type:  Inpatient 
+Admission Date:  1/4/2020 9:14 AM (ET)  Projected Discharge Date:  1/17/2020 11:00 AM (ET) 
+Patient Class:  Inpatient  Admit Source:  Emergency Room 
+Service Type:  Medicine  Location:  SI / 198-01 
+Facility:  Jackson North Medical  Level of Care: 
+Center 
+Primary Diagnosis:  S.O.B 
+Admitting Physician:    Rafael Crespo 
+Attending Physician:    Rafael Crespo 
+Referring Physician:    REFERRING NOPHYSICIAN 
+Primary Care Physician:    Neil Furman 
+Financial Information - Referral # 54736405 - MRN: 2835899 - GLADYS JACKSON
+Financial Class:  Medicare HMO 
+Payment Sources
+Primary  Financial Class:  Medicare HMO 
+Plan Number:  956586180 
+Group Number:  78600 
+Plan Description:  Preferred Care Partners Medicare HMO - Y79 
+Plan Provider Contact:  (800) 995-0480 
+Insured:  GLADYS B JACKSON
+DOB: 4/16/1924
+SSN: 267-30-6918 
+Pre-Auth/Cert Number:  A089004263 
+Certification Status:  02 
+Pre-Approved Days:  28 
+Secondary  Financial Class:  Medicare 
+Plan Number:  3CT7CM2HX71 
+Plan Description:  Medicare - IME - A10 
+Plan Provider Contact:  (800) 663-4227 
+https://www.extendedcare.com/professional/EcinClassic/ProReferralProviderListPrintabl... 16/01/2020Allscripts - Printable Review Referral Page 2 of 3
+Insured:  GLADYS B JACKSON
+DOB: 4/16/1924
+SSN: 267-30-6918 
+Certification Status:  02 
+Employer:  RETIRED
+Guarantor:  GLADYS B JACKSON Home: (305) 681-7705 
+2231 RUTLAND STREET
+OPA LOCKA, FL 33054 
+Guarantor Employer:  RETIRED
+Assessment/Needs - General Information - Referral # 54736405 - MRN: 2835899 - GLADYS JACKSON
+Primary Language:  English 
+Allergies/Medications - Referral # 54736405 - MRN: 2835899 - GLADYS JACKSON
+Allergies 
+penicillin 
+Radiology / Diagnostics - Referral # 54736405 - MRN: 2835899 - GLADYS JACKSON
+RAD
+Order  Test  Date 
+AE 2D Echo w/Doppler+Color Fl w/ Contrast as neede  AE 2D Echo w/Doppler+Color Fl w/ Contrast as neede  1/6/2020 6:41 AM (ET) 
+Result 
+Jackson North Medical Center\.br\160 N.W 170th Street\.br\North Miami Beach, Florida 33169\.br\\.br\ 
+Echocardiography Report\.br\\.br\Name: JACKSON, GLADYS B Study Date: 
+01/06/202006:50 AM\.br\MRN: 2835899 Patient Location: SI^198^01^JNMC\.br\DOB: 04/16/1924 (M/d/yyyy) 
+Gender: Female Height: 63 in\.br\Age: 95 yrs 
+Weight: 99 lb\.br\Ordering Physician: Cardenas, Juliette\.br\CPT codes:\.br\CPT-0024 
+93306-26ECHO COMPLETE WITH DOPPLER.\.br\Spectral Doppler with PW and CW.\.br\Reason For Study: SOB\.br\ 
+BSA: 1.4 m2\.br\\.br\MMode/2D Measurements & 
+Calculations\.br\IVSd:0.70 cm EF(MOD-sp4): 58.2 %\.br\LVIDd: 1.9 cm EDV(MOD-sp4): 37.3 
+ml\.br\LVIDs:1.3 cm ESV(MOD-sp4): 15.6 ml\.br\LVPWd: 0.66 cm Ao root diam: 2.8 cm\.br\LV 
+mass(C)d:24.3 grams Ao root area: 6.3 cm2\.br\LV mass(C)dI: 17.0 grams/m2 LVOT diam: 1.6 cm\.br\FS: 32.9 
+%\.br\EDV(Teich):11.6 ml LVOT area: 2.1 cm2\.br\ESV(Teich): 4.1 ml\.br\LVRWT: 0.71\.br\\.br\ 
+__\.br\SV(MOD-sp4): 21.7 ml Relative Wall Thickness (RWT): 0.71\.br\\.br\Doppler Measurements 
+& Calculations\.br\MV E max vel: 55.7 cm/sec MV V2 max: 96.4 cm/sec\.br\MV A max vel: 90.6 cm/sec 
+MV max PG: 3.7 mmHg\.br\MV E/A: 0.61 MV V2 mean: 53.6 cm/sec\.br\MV dec time: 0.13 sec 
+MV mean PG: 1.3 mmHg\.br\ MV V2 VTI: 14.8 cm\.br\\.br\ 
+MVA(VTI): 2.1 cm2\.br\ MV dec slope: 430.5 
+cm/sec2\.br\\.br\ __\.br\SV(LVOT): 31.0 ml TR max vel: 283.3 
+cm/sec\.br\SV(LVOT)/BSA:21.6 ml/m2 TR max PG: 32.1 mmHg\.br\LV V1 max: 70.9 cm/sec RAP systole: 3.0 mmHg\.br\LV 
+V1VTI: 14.6 cm RVSP(TR): 35.1 mmHg\.br\Ao V2 max: 88.6 cm/sec\.br\Ao max PG: 3.1 mmHg\.br\Ao V2 VTI: 
+16.0cm\.br\Ao mean PG: 1.4 mmHg\.br\\.br\AVA(I,A): 1.9 cm2\.br\AVA(I,D): 1.9 cm2\.br\\.br\AVA(V,D): 1.7 cm2\.br\AVA/BSA: 
+1.4\.br\\.br\\.br\LeftVentricle\.br\The left ventricle is not well visualized.\.br\Left ventricular systolic function is normal.\.br\Ejection 
+Fraction= >55%.\.br\\.br\Right Ventricle\.br\The right ventricle is grossly normal size.\.br\The right ventricular systolic 
+functionis normal.\.br\\.br\Atria\.br\The left atrial size is normal.\.br\Right atrial size is normal.\.br\There is no Doppler 
+evidencefor an atrial septal defect.\.br\\.br\Mitral Valve\.br\There is mild mitral annular calcification.\.br\There is no 
+mitralvalve stenosis.\.br\There is trace mitral regurgitation.\.br\\.br\\.br\Tricuspid Valve\.br\The tricuspid valve is not 
+wellvisualized, but is grossly normal.\.br\There is no tricuspid stenosis.\.br\There is mild tricuspid 
+regurgitation.\.br\TheRVSP is high normal at 35-39 mmHg.\.br\\.br\Aortic Valve\.br\The aortic valve opens well.\.br\There is mild aortic 
+sclerosis.\.br\Nohemodynamically significant valvular aortic stenosis.\.br\There is no aortic regurgitation.\.br\\.br\Pulmonic 
+Valve\.br\Thepulmonic valve is not well visualized.\.br\\.br\Great Vessels\.br\The aortic root is normal 
+size.\.br\\.br\Pericardium/Pleural\.br\Thereis no pericardial effusion.\.br\No major pericardial abnormalities demonstrated.\.br\There are no abnormal extracardiac 
+structuresseen.\.br\\.br\\.br\Interpretation Summary\.br\The study was technically difficult.\.br\The study was technically 
+limited.\.br\Limitedviews were obtained.\.br\Contrast injection was performed.\.br\Left ventricular systolic function is 
+normal.\.br\EjectionFraction = >55%.\.br\The right ventricular systolic function is normal.\.br\There is mild tricuspid 
+regurgitation.\.br\TheRVSP is high normal at 35-39 
+mmHg.\.br\\.br\_________________________________________________________________________________________________________________________\.br\\.br\\.br\\.br\\.br\ReadingPhysician:\.br\ 
+Bashar Obeidou, M.D. 01/06/2020 08:46 PM\.br\Ordering Physician: Cardenas, 
+Juliette\.br\ReferringPhysician: Cardenas, Juliette\.br\Performed By: Iannelli, Jaribay Esther 
+Transcriptions - Referral # 54736405 - MRN: 2835899 - GLADYS JACKSON
+RAD
+Order  Test  Date 
+AE 2D Echo w/Doppler+Color Fl w/ Contrast as neede  AE 2D Echo w/Doppler+Color Fl w/ Contrast as neede  1/6/2020 6:41 AM (ET) 
+Result 
+Jackson North Medical Center\.br\160 N.W 170th Street\.br\North Miami Beach, Florida 33169\.br\\.br\ 
+Echocardiography Report\.br\\.br\Name: JACKSON, GLADYS B Study Date: 
+01/06/202006:50 AM\.br\MRN: 2835899 Patient Location: SI^198^01^JNMC\.br\DOB: 04/16/1924 (M/d/yyyy) 
+Gender: Female Height: 63 in\.br\Age: 95 yrs 
+Weight: 99 lb\.br\Ordering Physician: Cardenas, Juliette\.br\CPT codes:\.br\CPT-0024 
+93306-26ECHO COMPLETE WITH DOPPLER.\.br\Spectral Doppler with PW and CW.\.br\Reason For Study: SOB\.br\ 
+BSA: 1.4 m2\.br\\.br\MMode/2D Measurements & 
+Calculations\.br\IVSd:0.70 cm EF(MOD-sp4): 58.2 %\.br\LVIDd: 1.9 cm EDV(MOD-sp4): 37.3 
+ml\.br\LVIDs:1.3 cm ESV(MOD-sp4): 15.6 ml\.br\LVPWd: 0.66 cm Ao root diam: 2.8 cm\.br\LV 
+mass(C)d:24.3 grams Ao root area: 6.3 cm2\.br\LV mass(C)dI: 17.0 grams/m2 LVOT diam: 1.6 cm\.br\FS: 32.9 
+%\.br\EDV(Teich):11.6 ml LVOT area: 2.1 cm2\.br\ESV(Teich): 4.1 ml\.br\LVRWT: 0.71\.br\\.br\ 
+__\.br\SV(MOD-sp4): 21.7 ml Relative Wall Thickness (RWT): 0.71\.br\\.br\Doppler Measurements 
+& Calculations\.br\MV E max vel: 55.7 cm/sec MV V2 max: 96.4 cm/sec\.br\MV A max vel: 90.6 cm/sec 
+MV max PG: 3.7 mmHg\.br\MV E/A: 0.61 MV V2 mean: 53.6 cm/sec\.br\MV dec time: 0.13 sec 
+MV mean PG: 1.3 mmHg\.br\ MV V2 VTI: 14.8 cm\.br\\.br\ 
+MVA(VTI): 2.1 cm2\.br\ MV dec slope: 430.5 
+cm/sec2\.br\\.br\ __\.br\SV(LVOT): 31.0 ml TR max vel: 283.3 
+cm/sec\.br\SV(LVOT)/BSA:21.6 ml/m2 TR max PG: 32.1 mmHg\.br\LV V1 max: 70.9 cm/sec RAP systole: 3.0 mmHg\.br\LV 
+V1VTI: 14.6 cm RVSP(TR): 35.1 mmHg\.br\Ao V2 max: 88.6 cm/sec\.br\Ao max PG: 3.1 mmHg\.br\Ao V2 VTI: 
+16.0cm\.br\Ao mean PG: 1.4 mmHg\.br\\.br\AVA(I,A): 1.9 cm2\.br\AVA(I,D): 1.9 cm2\.br\\.br\AVA(V,D): 1.7 cm2\.br\AVA/BSA: 
+https://www.extendedcare.com/professional/EcinClassic/ProReferralProviderListPrintabl... 16/01/2020Allscripts - Printable Review Referral Page 3 of 3
+1.4\.br\\.br\\.br\LeftVentricle\.br\The left ventricle is not well visualized.\.br\Left ventricular systolic function is normal.\.br\Ejection 
+Fraction= >55%.\.br\\.br\Right Ventricle\.br\The right ventricle is grossly normal size.\.br\The right ventricular systolic 
+functionis normal.\.br\\.br\Atria\.br\The left atrial size is normal.\.br\Right atrial size is normal.\.br\There is no Doppler 
+evidencefor an atrial septal defect.\.br\\.br\Mitral Valve\.br\There is mild mitral annular calcification.\.br\There is no 
+mitralvalve stenosis.\.br\There is trace mitral regurgitation.\.br\\.br\\.br\Tricuspid Valve\.br\The tricuspid valve is not 
+wellvisualized, but is grossly normal.\.br\There is no tricuspid stenosis.\.br\There is mild tricuspid 
+regurgitation.\.br\TheRVSP is high normal at 35-39 mmHg.\.br\\.br\Aortic Valve\.br\The aortic valve opens well.\.br\There is mild aortic 
+sclerosis.\.br\Nohemodynamically significant valvular aortic stenosis.\.br\There is no aortic regurgitation.\.br\\.br\Pulmonic 
+Valve\.br\Thepulmonic valve is not well visualized.\.br\\.br\Great Vessels\.br\The aortic root is normal 
+size.\.br\\.br\Pericardium/Pleural\.br\Thereis no pericardial effusion.\.br\No major pericardial abnormalities demonstrated.\.br\There are no abnormal extracardiac 
+structuresseen.\.br\\.br\\.br\Interpretation Summary\.br\The study was technically difficult.\.br\The study was technically 
+limited.\.br\Limitedviews were obtained.\.br\Contrast injection was performed.\.br\Left ventricular systolic function is 
+normal.\.br\EjectionFraction = >55%.\.br\The right ventricular systolic function is normal.\.br\There is mild tricuspid 
+regurgitation.\.br\TheRVSP is high normal at 35-39 
+mmHg.\.br\\.br\_________________________________________________________________________________________________________________________\.br\\.br\\.br\\.br\\.br\ReadingPhysician:\.br\ 
+Bashar Obeidou, M.D. 01/06/2020 08:46 PM\.br\Ordering Physician: Cardenas, 
+Juliette\.br\ReferringPhysician: Cardenas, Juliette\.br\Performed By: Iannelli, Jaribay Esther 
+Vital Signs - Referral # 54736405 - MRN: 2835899 - GLADYS JACKSON
+Taken Between:  1/16/2020  and: 
+Pulse:  125  /minute to:  /minute 
+Copyright © 2020 Allscripts Healthcare, Inc. [Production(CIM-521)]
+https://www.extendedcare.com/professional/EcinClassic/ProReferralProviderListPrintabl... 16/01/2020

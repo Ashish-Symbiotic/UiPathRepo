@@ -1,0 +1,91 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="Main" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <x:Members>
+    <x:Property Name="in_number" Type="InArgument(x:String)" />
+    <x:Property Name="Result" Type="OutArgument(x:String)" />
+  </x:Members>
+  <mva:VisualBasic.Settings>
+    <x:Null />
+  </mva:VisualBasic.Settings>
+  <sap:VirtualizedContainerService.HintSize>395.2,557.6</sap:VirtualizedContainerService.HintSize>
+  <sap2010:WorkflowViewState.IdRef>ActivityBuilder_1</sap2010:WorkflowViewState.IdRef>
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>System.Windows.Markup</x:String>
+      <x:String>System.Text.RegularExpressions</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+      <AssemblyReference>PresentationCore</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>System.ServiceModel</AssemblyReference>
+      <AssemblyReference>System.ValueTuple</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence DisplayName="CheckMobilenumber" sap:VirtualizedContainerService.HintSize="375.2,457.6" sap2010:WorkflowViewState.IdRef="Sequence_1">
+    <Sequence.Variables>
+      <Variable x:TypeArguments="x:String" Name="phoneNum" />
+      <Variable x:TypeArguments="x:String" Name="result1" />
+    </Sequence.Variables>
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <Assign sap:VirtualizedContainerService.HintSize="333.6,60" sap2010:WorkflowViewState.IdRef="Assign_1">
+      <Assign.To>
+        <OutArgument x:TypeArguments="x:String">[phoneNum]</OutArgument>
+      </Assign.To>
+      <Assign.Value>
+        <InArgument x:TypeArguments="x:String">[in_number]</InArgument>
+      </Assign.Value>
+    </Assign>
+    <ui:InvokeCode ContinueOnError="{x:Null}" Code=" string phone_number = &quot;&quot;;&#xA;       &#xA;                    int length = 0;&#xA;                   &#xA;                    string new_number = &quot;&quot;;&#xA;                    phone_number = in_number;&#xA;                    new_number = phone_number;&#xA;                    new_number = new_number.Replace(&quot; &quot;, string.Empty);&#xA;                    char[] phone_array = new_number.ToCharArray();&#xA;                    &#xA;&#xA;                    for (int index = 0; index &lt; phone_array.Length; index++)&#xA;                    {&#xA;&#xA;                        if (phone_array[index].Equals('0') || phone_array[index].Equals('1') || phone_array[index].Equals('2') || phone_array[index].Equals('3') || phone_array[index].Equals('4') || phone_array[index].Equals('5') || phone_array[index].Equals('6') || phone_array[index].Equals('7') || phone_array[index].Equals('8') || phone_array[index].Equals('9'))&#xA;                        {&#xA;&#xA;                        }&#xA;                        else&#xA;                        {&#xA;                            phone_array[index] = 'g';&#xA;                        }&#xA;&#xA;&#xA;                    }&#xA;                    new_number = new string(phone_array);&#xA;                    new_number = new_number.Replace(&quot;g&quot;, string.Empty);&#xA;                    if (!(new_number.Length == 0))&#xA;                    {&#xA;                        phone_number = &quot;&quot;;&#xA;                        phone_array = new_number.ToCharArray();&#xA;                        Dictionary&lt;String, String&gt; numbers = new Dictionary&lt;string, string&gt;();&#xA;                        Console.WriteLine(new_number);&#xA;                        if ((new_number.Length == 7))&#xA;                        {&#xA;                           phone_number = &quot;Phone number:&quot;+phone_array[0].ToString() + phone_array[1].ToString() + phone_array[2].ToString() + &quot;-&quot; + phone_array[3].ToString() + phone_array[4].ToString() + phone_array[5].ToString() + phone_array[6].ToString();&#xA;                        }&#xA;                        else if ((new_number.Length == 10))&#xA;                        {&#xA;                            phone_number =&quot;area code:&quot;+&quot;(&quot; + phone_array[0].ToString() + phone_array[1].ToString() + phone_array[2].ToString() + &quot;)&quot;+&#xA;                          Environment.NewLine+  &quot;Phone number:&quot;+phone_array[3].ToString() + phone_array[4].ToString() + phone_array[5].ToString() + &quot;-&quot; + phone_array[6].ToString() + phone_array[7].ToString() + phone_array[8].ToString() + phone_array[9].ToString();&#xA;                        }&#xA;                        else if ((new_number.Length == 14))&#xA;                         {&#xA;                            phone_number =&quot;area code:&quot;+&quot;(&quot; + phone_array[0].ToString() + phone_array[1].ToString() + phone_array[2].ToString() + &quot;)&quot;+&#xA;                          Environment.NewLine+  &quot;Phone number:&quot;+phone_array[3].ToString() + phone_array[4].ToString() + phone_array[5].ToString() + &quot;-&quot; + phone_array[6].ToString() + phone_array[7].ToString() + phone_array[8].ToString() + phone_array[9].ToString()+&#xA;                            Environment.NewLine+&quot;Extension:&quot;+phone_array[10].ToString() + phone_array[11].ToString() + phone_array[12].ToString() + phone_array[13].ToString();&#xA;                        }&#xA;                        else if ((new_number.Length == 11))&#xA;                        {&#xA;                            phone_number = &quot;phone number:&quot;+phone_array[0].ToString() + phone_array[1].ToString() + phone_array[2].ToString() + &quot;-&quot; + phone_array[3].ToString() + phone_array[4].ToString() + phone_array[5].ToString() + phone_array[6].ToString()+&#xA;                            &quot; Extension:&quot; +phone_array[7].ToString() + phone_array[8].ToString() + phone_array[9].ToString() + phone_array[10].ToString();&#xA;                        }&#xA;                        else&#xA;                        {&#xA;                    phone_number=&quot;000-000-0000&quot;;&#xA;                        }&#xA;&#xA;                    Console.WriteLine(phone_number);&#xA;&#xA;&#xA;                    }&#xA;                    else&#xA;                    {&#xA;                        phone_number=&quot;000-000-0000&quot;;&#xA;                    }&#xA;              out_result=phone_number;&#xA;                &#xA;            " DisplayName="Invoke code" sap:VirtualizedContainerService.HintSize="333.6,164.8" sap2010:WorkflowViewState.IdRef="InvokeCode_1" Language="CSharp">
+      <ui:InvokeCode.Arguments>
+        <InArgument x:TypeArguments="x:String" x:Key="in_number">[phoneNum]</InArgument>
+        <OutArgument x:TypeArguments="x:String" x:Key="out_result">[result1]</OutArgument>
+      </ui:InvokeCode.Arguments>
+    </ui:InvokeCode>
+    <Assign sap:VirtualizedContainerService.HintSize="333.6,60" sap2010:WorkflowViewState.IdRef="Assign_2">
+      <Assign.To>
+        <OutArgument x:TypeArguments="x:String">[Result]</OutArgument>
+      </Assign.To>
+      <Assign.Value>
+        <InArgument x:TypeArguments="x:String">[result1]</InArgument>
+      </Assign.Value>
+    </Assign>
+  </Sequence>
+</Activity>
