@@ -790,5 +790,526 @@
         }
       ]
     }
-  }
+  },
+  "AllPackages": [
+    {
+      "Package": {
+        "Id": "AForge",
+        "Version": "2.2.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\aforge\\2.2.5\\lib\\AForge.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\aforge\\2.2.5"
+    },
+    {
+      "Package": {
+        "Id": "AForge.Genetic",
+        "Version": "2.2.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\aforge.genetic\\2.2.5\\lib\\AForge.Genetic.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\aforge.genetic\\2.2.5"
+    },
+    {
+      "Package": {
+        "Id": "AForge.Imaging",
+        "Version": "2.2.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\aforge.imaging\\2.2.5\\lib\\AForge.Imaging.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\aforge.imaging\\2.2.5"
+    },
+    {
+      "Package": {
+        "Id": "AForge.Math",
+        "Version": "2.2.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\aforge.math\\2.2.5\\lib\\AForge.Math.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\aforge.math\\2.2.5"
+    },
+    {
+      "Package": {
+        "Id": "AForge.Neuro",
+        "Version": "2.2.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\aforge.neuro\\2.2.5\\lib\\AForge.Neuro.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\aforge.neuro\\2.2.5"
+    },
+    {
+      "Package": {
+        "Id": "AvalonEdit",
+        "Version": "5.0.3"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\avalonedit\\5.0.3\\lib\\Net40\\ICSharpCode.AvalonEdit.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\avalonedit\\5.0.3"
+    },
+    {
+      "Package": {
+        "Id": "BitMiracle.Docotic.Pdf",
+        "Version": "5.2.8369"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\bitmiracle.docotic.pdf\\5.2.8369\\lib\\net40\\BitMiracle.Docotic.Pdf.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\bitmiracle.docotic.pdf\\5.2.8369"
+    },
+    {
+      "Package": {
+        "Id": "BouncyCastle",
+        "Version": "1.8.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\bouncycastle\\1.8.5\\lib\\BouncyCastle.Crypto.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\bouncycastle\\1.8.5"
+    },
+    {
+      "Package": {
+        "Id": "ClosedXML",
+        "Version": "0.87.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\closedxml\\0.87.1\\lib\\net40\\ClosedXML.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\closedxml\\0.87.1"
+    },
+    {
+      "Package": {
+        "Id": "CsvHelper",
+        "Version": "2.13.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\csvhelper\\2.13.5\\lib\\net40-client\\CsvHelper.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\csvhelper\\2.13.5"
+    },
+    {
+      "Package": {
+        "Id": "DocumentFormat.OpenXml",
+        "Version": "2.5.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\documentformat.openxml\\2.5.0\\lib\\DocumentFormat.OpenXml.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\documentformat.openxml\\2.5.0"
+    },
+    {
+      "Package": {
+        "Id": "Extended.Wpf.Toolkit",
+        "Version": "2.8.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.Aero.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.Metro.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.DataGrid.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.Toolkit.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0"
+    },
+    {
+      "Package": {
+        "Id": "FirstLib",
+        "Version": "1.0.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\firstlib\\1.0.5\\lib\\net45\\FirstLib.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\firstlib\\1.0.5"
+    },
+    {
+      "Package": {
+        "Id": "FSharp.Core",
+        "Version": "4.0.0.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\fsharp.core\\4.0.0.1\\lib\\net40\\FSharp.Core.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\fsharp.core\\4.0.0.1"
+    },
+    {
+      "Package": {
+        "Id": "Humanizer.Core",
+        "Version": "2.4.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\humanizer.core\\2.4.2\\lib\\netstandard2.0\\Humanizer.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\humanizer.core\\2.4.2"
+    },
+    {
+      "Package": {
+        "Id": "interop.domino.dll",
+        "Version": "1.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\interop.domino.dll\\1.0.0\\lib\\Interop.Domino.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\interop.domino.dll\\1.0.0"
+    },
+    {
+      "Package": {
+        "Id": "IvanAkcheurov.NTextCat.Lib",
+        "Version": "0.2.1.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\ivanakcheurov.ntextcat.lib\\0.2.1.1\\lib\\net40\\IvanAkcheurov.Commons.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\ivanakcheurov.ntextcat.lib\\0.2.1.1\\lib\\net40\\IvanAkcheurov.NClassify.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\ivanakcheurov.ntextcat.lib\\0.2.1.1\\lib\\net40\\IvanAkcheurov.NTextCat.Lib.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\ivanakcheurov.ntextcat.lib\\0.2.1.1"
+    },
+    {
+      "Package": {
+        "Id": "MathNet.Numerics",
+        "Version": "4.5.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\mathnet.numerics\\4.5.1\\lib\\net461\\MathNet.Numerics.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\mathnet.numerics\\4.5.1"
+    },
+    {
+      "Package": {
+        "Id": "Metrics.NET",
+        "Version": "0.5.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\metrics.net\\0.5.5\\lib\\net45\\Metrics.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\metrics.net\\0.5.5"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.AspNet.SignalR.Client",
+        "Version": "2.4.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0\\lib\\net45\\Microsoft.AspNet.SignalR.Client.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Exchange.WebServices",
+        "Version": "2.2.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\microsoft.exchange.webservices\\2.2.0\\lib\\40\\Microsoft.Exchange.WebServices.Auth.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\microsoft.exchange.webservices\\2.2.0\\lib\\40\\Microsoft.Exchange.WebServices.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\microsoft.exchange.webservices\\2.2.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Rest.ClientRuntime",
+        "Version": "2.3.20"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.20\\lib\\net461\\Microsoft.Rest.ClientRuntime.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.20"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.VisualStudio.OLE.Interop",
+        "Version": "7.10.6071"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\7.10.6071\\lib\\Microsoft.VisualStudio.OLE.Interop.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\7.10.6071"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Xaml.Behaviors.Wpf",
+        "Version": "1.0.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.0.1\\lib\\net45\\Microsoft.Xaml.Behaviors.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.0.1"
+    },
+    {
+      "Package": {
+        "Id": "Newtonsoft.Json",
+        "Version": "11.0.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\newtonsoft.json\\11.0.2\\lib\\net45\\Newtonsoft.Json.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\newtonsoft.json\\11.0.2"
+    },
+    {
+      "Package": {
+        "Id": "NPOI",
+        "Version": "2.4.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OOXML.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OpenXml4Net.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\npoi\\2.4.1"
+    },
+    {
+      "Package": {
+        "Id": "Numsense",
+        "Version": "0.12.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\numsense\\0.12.0\\lib\\net45\\Ploeh.Numsense.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\numsense\\0.12.0"
+    },
+    {
+      "Package": {
+        "Id": "RestSharp",
+        "Version": "106.3.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\restsharp\\106.3.1\\lib\\net452\\RestSharp.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\restsharp\\106.3.1"
+    },
+    {
+      "Package": {
+        "Id": "SharpZipLib",
+        "Version": "1.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\sharpziplib\\1.0.0\\lib\\net45\\ICSharpCode.SharpZipLib.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\sharpziplib\\1.0.0"
+    },
+    {
+      "Package": {
+        "Id": "System.Collections.Immutable",
+        "Version": "1.5.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\system.collections.immutable\\1.5.0\\lib\\netstandard2.0\\System.Collections.Immutable.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\system.collections.immutable\\1.5.0"
+    },
+    {
+      "Package": {
+        "Id": "System.Runtime.InteropServices.RuntimeInformation",
+        "Version": "4.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\lib\\net45\\System.Runtime.InteropServices.RuntimeInformation.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0"
+    },
+    {
+      "Package": {
+        "Id": "System.ValueTuple",
+        "Version": "4.5.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\system.valuetuple\\4.5.0\\lib\\net461\\System.ValueTuple.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\system.valuetuple\\4.5.0"
+    },
+    {
+      "Package": {
+        "Id": "UiPath",
+        "Version": "20.2.7348.30662-preview"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath\\20.2.7348.30662-preview\\lib\\UiPath.Interop.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\uipath\\20.2.7348.30662-preview"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.CefSharpBundle",
+        "Version": "1.0.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.cefsharpbundle\\1.0.1\\lib\\net452\\CefSharp.Core.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.cefsharpbundle\\1.0.1\\lib\\net452\\CefSharp.Wpf.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.cefsharpbundle\\1.0.1\\lib\\net452\\CefSharp.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\uipath.cefsharpbundle\\1.0.1"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.DocumentProcessing.Contracts",
+        "Version": "1.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.documentprocessing.contracts\\1.0.0\\lib\\net461\\UiPath.DocumentProcessing.Contracts.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\uipath.documentprocessing.contracts\\1.0.0"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Excel.Activities",
+        "Version": "2.8.1-preview"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.excel.activities\\2.8.1-preview\\lib\\net461\\UiPath.Excel.Activities.Design.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.excel.activities\\2.8.1-preview\\lib\\net461\\UiPath.Excel.Activities.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.excel.activities\\2.8.1-preview\\lib\\net461\\UiPath.Excel.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\uipath.excel.activities\\2.8.1-preview"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.IntelligentOCR.Activities",
+        "Version": "2.0.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.intelligentocr.activities\\2.0.1\\lib\\net461\\FCEngine.VisualComponents.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.intelligentocr.activities\\2.0.1\\lib\\net461\\Interop.FCEngine.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.intelligentocr.activities\\2.0.1\\lib\\net461\\UiPath.IntelligentOCR.Activities.Design.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.intelligentocr.activities\\2.0.1\\lib\\net461\\UiPath.IntelligentOCR.Activities.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.intelligentocr.activities\\2.0.1\\lib\\net461\\UiPath.IntelligentOCR.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.intelligentocr.activities\\2.0.1\\lib\\net461\\UiPath.SmartData.Data.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.intelligentocr.activities\\2.0.1\\lib\\net461\\UiPath.SmartData.Digitization.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.intelligentocr.activities\\2.0.1\\lib\\net461\\UiPath.SmartData.DocumentClassification.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.intelligentocr.activities\\2.0.1\\lib\\net461\\UiPath.SmartData.FixedForms.TemplateManager.exe",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.intelligentocr.activities\\2.0.1\\lib\\net461\\UiPath.SmartData.FixedForms.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.intelligentocr.activities\\2.0.1\\lib\\net461\\UiPath.SmartData.Host.Local.Infrastructure.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.intelligentocr.activities\\2.0.1\\lib\\net461\\UiPath.SmartData.ImageProcessing.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.intelligentocr.activities\\2.0.1\\lib\\net461\\UiPath.SmartData.Language.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.intelligentocr.activities\\2.0.1\\lib\\net461\\UiPath.SmartData.Localization.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.intelligentocr.activities\\2.0.1\\lib\\net461\\UiPath.SmartData.OCR.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.intelligentocr.activities\\2.0.1\\lib\\net461\\UiPath.SmartData.OutOfProcessUi.Common.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.intelligentocr.activities\\2.0.1\\lib\\net461\\UiPath.SmartData.OutOfProcessUi.Host.WCF.exe",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.intelligentocr.activities\\2.0.1\\lib\\net461\\UiPath.SmartData.PDF.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.intelligentocr.activities\\2.0.1\\lib\\net461\\UiPath.SmartData.TableProcessing.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.intelligentocr.activities\\2.0.1\\lib\\net461\\UiPath.SmartData.TaxonomyManager.Host.Local.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.intelligentocr.activities\\2.0.1\\lib\\net461\\UiPath.SmartData.TaxonomyManager.Storage.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.intelligentocr.activities\\2.0.1\\lib\\net461\\UiPath.SmartData.TaxonomyManager.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.intelligentocr.activities\\2.0.1\\lib\\net461\\UiPath.SmartData.Utils.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.intelligentocr.activities\\2.0.1\\lib\\net461\\UiPath.SmartData.ValidationStation.Host.Local.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.intelligentocr.activities\\2.0.1\\lib\\net461\\UiPath.SmartData.ValidationStation.PDF.Optimization.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.intelligentocr.activities\\2.0.1\\lib\\net461\\UiPath.SmartData.ValidationStation.Storage.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.intelligentocr.activities\\2.0.1\\lib\\net461\\UiPath.SmartData.ValidationStation.ValueParsing.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.intelligentocr.activities\\2.0.1\\lib\\net461\\UiPath.SmartData.ValidationStation.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\uipath.intelligentocr.activities\\2.0.1"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Mail.Activities",
+        "Version": "1.8.1-preview"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.mail.activities\\1.8.1-preview\\lib\\net461\\MailKit.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.mail.activities\\1.8.1-preview\\lib\\net461\\MimeKit.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.mail.activities\\1.8.1-preview\\lib\\net461\\UiPath.Mail.Activities.Design.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.mail.activities\\1.8.1-preview\\lib\\net461\\UiPath.Mail.Activities.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.mail.activities\\1.8.1-preview\\lib\\net461\\UiPath.Mail.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\uipath.mail.activities\\1.8.1-preview"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.OCR.Contracts",
+        "Version": "2.5.0-preview"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.ocr.contracts\\2.5.0-preview\\lib\\net45\\UiPath.OCR.Contracts.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\uipath.ocr.contracts\\2.5.0-preview"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.PDF.Activities",
+        "Version": "2.0.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.pdf.activities\\2.0.1\\lib\\net461\\UiPath.PDF.Activities.Design.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.pdf.activities\\2.0.1\\lib\\net461\\UiPath.PDF.Activities.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.pdf.activities\\2.0.1\\lib\\net461\\UiPath.PDF.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\uipath.pdf.activities\\2.0.1"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.System.Activities",
+        "Version": "20.2.0-preview"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.system.activities\\20.2.0-preview\\lib\\net461\\ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.system.activities\\20.2.0-preview\\lib\\net461\\ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.system.activities\\20.2.0-preview\\lib\\net461\\ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.system.activities\\20.2.0-preview\\lib\\net461\\ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.system.activities\\20.2.0-preview\\lib\\net461\\ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.system.activities\\20.2.0-preview\\lib\\net461\\ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.system.activities\\20.2.0-preview\\lib\\net461\\ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.system.activities\\20.2.0-preview\\lib\\net461\\ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.system.activities\\20.2.0-preview\\lib\\net461\\ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.system.activities\\20.2.0-preview\\lib\\net461\\CustomInputForm.exe",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.system.activities\\20.2.0-preview\\lib\\net461\\UiPath.OrchestratorClient.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.system.activities\\20.2.0-preview\\lib\\net461\\UiPath.System.Activities.Design.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.system.activities\\20.2.0-preview\\lib\\net461\\UiPath.System.Activities.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\uipath.system.activities\\20.2.0-preview"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.UIAutomation.Activities",
+        "Version": "20.2.0-preview"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.uiautomation.activities\\20.2.0-preview\\lib\\net461\\ActiproSoftware.DataGrid.Contrib.Wpf.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.uiautomation.activities\\20.2.0-preview\\lib\\net461\\ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.uiautomation.activities\\20.2.0-preview\\lib\\net461\\ActiproSoftware.Editors.Wpf.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.uiautomation.activities\\20.2.0-preview\\lib\\net461\\ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.uiautomation.activities\\20.2.0-preview\\lib\\net461\\ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.uiautomation.activities\\20.2.0-preview\\lib\\net461\\ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.uiautomation.activities\\20.2.0-preview\\lib\\net461\\ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.uiautomation.activities\\20.2.0-preview\\lib\\net461\\ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.uiautomation.activities\\20.2.0-preview\\lib\\net461\\ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.uiautomation.activities\\20.2.0-preview\\lib\\net461\\ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.uiautomation.activities\\20.2.0-preview\\lib\\net461\\ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.uiautomation.activities\\20.2.0-preview\\lib\\net461\\UiPath.CV.Activities.Design.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.uiautomation.activities\\20.2.0-preview\\lib\\net461\\UiPath.CV.Activities.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.uiautomation.activities\\20.2.0-preview\\lib\\net461\\UiPath.CV.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.uiautomation.activities\\20.2.0-preview\\lib\\net461\\UiPath.UIAutomation.Activities.Design.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.uiautomation.activities\\20.2.0-preview\\lib\\net461\\UiPath.UiAutomation.Activities.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.uiautomation.activities\\20.2.0-preview\\lib\\net461\\UiPath.Wizards.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\uipath.uiautomation.activities\\20.2.0-preview"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Vision",
+        "Version": "2.0.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.vision\\2.0.1\\lib\\net452\\UiPath.Vision.Core.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.vision\\2.0.1\\lib\\net452\\UiPath.Vision.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\uipath.vision\\2.0.1"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.WebAPI.Activities",
+        "Version": "1.4.4"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.webapi.activities\\1.4.4\\lib\\net452\\UiPath.Web.Activities.Design.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.webapi.activities\\1.4.4\\lib\\net452\\UiPath.Web.Activities.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.webapi.activities\\1.4.4\\lib\\net452\\UiPath.Web.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\uipath.webapi.activities\\1.4.4"
+    }
+  ]
 }
