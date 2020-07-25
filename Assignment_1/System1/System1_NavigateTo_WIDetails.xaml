@@ -6,7 +6,7 @@
   <mva:VisualBasic.Settings>
     <x:Null />
   </mva:VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>495.2,452.8</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>942.4,887.2</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>System1_NavigateTo_WIDetails_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <scg:List x:TypeArguments="x:String" Capacity="21">
@@ -57,7 +57,7 @@
       <AssemblyReference>System.Runtime.WindowsRuntime</AssemblyReference>
     </scg:List>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="System1_NavigateTo_WIDetails" sap:VirtualizedContainerService.HintSize="952.8,689.6" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="System1_NavigateTo_WIDetails" sap:VirtualizedContainerService.HintSize="952.8,822.4" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:Boolean" Name="DashboarExists" />
     </Sequence.Variables>
@@ -66,6 +66,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="911.2,92.8" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;Going to WiDetails&quot;]" />
     <ui:UiElementExists DisplayName="Element Exists 'H1'" Exists="[DashboarExists]" sap:VirtualizedContainerService.HintSize="911.2,107.2" sap2010:WorkflowViewState.IdRef="UiElementExists_1">
       <ui:UiElementExists.Target>
         <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" InformativeScreenshot="a5201f8c13e098c767d6db594ce83751" Selector="&lt;html title='ACME System 1 - Dashboard' /&gt;&lt;webctrl idx='1' tag='H1' /&gt;">

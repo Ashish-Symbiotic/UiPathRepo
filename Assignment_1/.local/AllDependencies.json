@@ -159,6 +159,64 @@
           "lib/40/Microsoft.Exchange.WebServices.dll": {}
         }
       },
+      "Microsoft.Graph.Beta/0.8.0-preview": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Graph.Core": "1.17.0",
+          "Newtonsoft.Json": "6.0.1"
+        },
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "System",
+          "System.Net.Http"
+        ],
+        "compile": {
+          "lib/net45/_._": {}
+        },
+        "runtime": {
+          "lib/net45/Microsoft.Graph.Beta.dll": {}
+        }
+      },
+      "Microsoft.Graph.Core/1.17.0": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "6.0.1",
+          "System.ValueTuple": "4.3.0"
+        },
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "System",
+          "System.Net.Http"
+        ],
+        "compile": {
+          "lib/net45/_._": {}
+        },
+        "runtime": {
+          "lib/net45/Microsoft.Graph.Core.dll": {}
+        }
+      },
+      "Microsoft.Identity.Client/2.7.1": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "System",
+          "System.Core",
+          "System.Data",
+          "System.Data.DataSetExtensions",
+          "System.Drawing",
+          "System.IdentityModel",
+          "System.Net.Http",
+          "System.Windows.Forms",
+          "System.Xml",
+          "System.Xml.Linq"
+        ],
+        "compile": {
+          "ref/net45/_._": {}
+        },
+        "runtime": {
+          "lib/net45/Microsoft.Identity.Client.dll": {}
+        }
+      },
       "Microsoft.Rest.ClientRuntime/2.3.20": {
         "type": "package",
         "dependencies": {
@@ -495,6 +553,36 @@
           "lib/net461/zh-CN/UiPath.Mail.resources.dll": {
             "locale": "zh-CN"
           }
+        }
+      },
+      "UiPath.MicrosoftTeams.Activities/0.4.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Graph.Beta": "0.8.0-preview",
+          "Microsoft.Graph.Core": "1.17.0",
+          "Microsoft.Identity.Client": "2.7.1",
+          "Newtonsoft.Json": "10.0.3"
+        },
+        "frameworkAssemblies": [
+          "PresentationCore",
+          "PresentationFramework",
+          "System",
+          "System.Activities",
+          "System.Activities.Core.Presentation",
+          "System.Activities.Presentation",
+          "System.Core",
+          "System.Data",
+          "System.Xaml",
+          "System.Xml",
+          "WindowsBase"
+        ],
+        "compile": {
+          "lib/net461/_._": {}
+        },
+        "runtime": {
+          "lib/net461/UiPath.MicrosoftTeams.Activities.Design.dll": {},
+          "lib/net461/UiPath.MicrosoftTeams.Activities.dll": {},
+          "lib/net461/UiPath.MicrosoftTeams.dll": {}
         }
       },
       "UiPath.OCR.Contracts/2.3.0-preview": {
@@ -1044,6 +1132,82 @@
         "microsoft.exchange.webservices.nuspec"
       ]
     },
+    "Microsoft.Graph.Beta/0.8.0-preview": {
+      "sha512": "psiMLMbi47jX2l/dpGMLKbO5js6APTj+tPs41zqQi3VnDOYiOuuc3KnDxojuy1n7TMSvtKKmb0x1DoBi8+2fTA==",
+      "type": "package",
+      "path": "microsoft.graph.beta/0.8.0-preview",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "lib/net45/Microsoft.Graph.Beta.dll",
+        "lib/net45/Microsoft.Graph.Beta.xml",
+        "lib/netstandard1.3/Microsoft.Graph.Beta.dll",
+        "lib/netstandard1.3/Microsoft.Graph.Beta.xml",
+        "microsoft.graph.beta.0.8.0-preview.nupkg.sha512",
+        "microsoft.graph.beta.nuspec"
+      ]
+    },
+    "Microsoft.Graph.Core/1.17.0": {
+      "sha512": "tfSNsxye2fImjCtbG2uQ9dBcqJrUBrz7WZpEIWh4zurCdtOEikjafUvrE0jvyBwDmXRxynXUDbdfxyo6GmaKRw==",
+      "type": "package",
+      "path": "microsoft.graph.core/1.17.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "lib/monoandroid70/Microsoft.Graph.Core.dll",
+        "lib/monoandroid70/Microsoft.Graph.Core.xml",
+        "lib/net45/Microsoft.Graph.Core.dll",
+        "lib/net45/Microsoft.Graph.Core.xml",
+        "lib/netstandard1.1/Microsoft.Graph.Core.dll",
+        "lib/netstandard1.1/Microsoft.Graph.Core.xml",
+        "lib/xamarinios10/Microsoft.Graph.Core.dll",
+        "lib/xamarinios10/Microsoft.Graph.Core.xml",
+        "microsoft.graph.core.1.17.0.nupkg.sha512",
+        "microsoft.graph.core.nuspec"
+      ]
+    },
+    "Microsoft.Identity.Client/2.7.1": {
+      "sha512": "R0Bh+DVQkB9w9hKm5DhGMle1kMGPnuLMHJYLhOIAoZp9JCieMm5PEhu/is1v/C3n6KnPvUEwg8M100McNRnm5A==",
+      "type": "package",
+      "path": "microsoft.identity.client/2.7.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/monoandroid81/Microsoft.Identity.Client.dll",
+        "lib/monoandroid81/Microsoft.Identity.Client.xml",
+        "lib/net45/Microsoft.Identity.Client.dll",
+        "lib/net45/Microsoft.Identity.Client.xml",
+        "lib/netcoreapp1.0/Microsoft.Identity.Client.dll",
+        "lib/netcoreapp1.0/Microsoft.Identity.Client.xml",
+        "lib/netstandard1.3/Microsoft.Identity.Client.dll",
+        "lib/netstandard1.3/Microsoft.Identity.Client.xml",
+        "lib/uap10.0/Microsoft.Identity.Client.dll",
+        "lib/uap10.0/Microsoft.Identity.Client.pri",
+        "lib/uap10.0/Microsoft.Identity.Client.xml",
+        "lib/xamarinios10/Microsoft.Identity.Client.dll",
+        "lib/xamarinios10/Microsoft.Identity.Client.xml",
+        "lib/xamarinmac20/Microsoft.Identity.Client.dll",
+        "lib/xamarinmac20/Microsoft.Identity.Client.xml",
+        "microsoft.identity.client.2.7.1.nupkg.sha512",
+        "microsoft.identity.client.nuspec",
+        "ref/MonoAndroid8.1/Microsoft.Identity.Client.dll",
+        "ref/MonoAndroid8.1/Microsoft.Identity.Client.xml",
+        "ref/Xamarin.iOS10/Microsoft.Identity.Client.dll",
+        "ref/Xamarin.iOS10/Microsoft.Identity.Client.xml",
+        "ref/net45/Microsoft.Identity.Client.dll",
+        "ref/net45/Microsoft.Identity.Client.xml",
+        "ref/netcoreapp1.0/Microsoft.Identity.Client.dll",
+        "ref/netcoreapp1.0/Microsoft.Identity.Client.xml",
+        "ref/netstandard1.3/Microsoft.Identity.Client.dll",
+        "ref/netstandard1.3/Microsoft.Identity.Client.xml",
+        "ref/uap10.0/Microsoft.Identity.Client.dll",
+        "ref/uap10.0/Microsoft.Identity.Client.xml",
+        "ref/xamarinmac20/Microsoft.Identity.Client.dll",
+        "ref/xamarinmac20/Microsoft.Identity.Client.xml"
+      ]
+    },
     "Microsoft.Rest.ClientRuntime/2.3.20": {
       "sha512": "bw/H1nO4JdnhTagPHWIFQwtlQ6rb2jqw5RTrqPsPqzrjhJxc7P6MyNGdf4pgHQdzdpBSNOfZTEQifoUkxmzYXQ==",
       "type": "package",
@@ -1369,6 +1533,23 @@
         "uipath.mail.activities.nuspec"
       ]
     },
+    "UiPath.MicrosoftTeams.Activities/0.4.0": {
+      "sha512": "0/QnqNP9GuuhWXBjjWf9BlkKPupikN5qKIhi7YhMk/HKZhSu6zKJ9L95JEaZ+wQRYbfnBxzgoDYeqdunw5wS3g==",
+      "type": "package",
+      "path": "uipath.microsoftteams.activities/0.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net461/UiPath.MicrosoftTeams.Activities.Design.dll",
+        "lib/net461/UiPath.MicrosoftTeams.Activities.Design.xml",
+        "lib/net461/UiPath.MicrosoftTeams.Activities.dll",
+        "lib/net461/UiPath.MicrosoftTeams.Activities.xml",
+        "lib/net461/UiPath.MicrosoftTeams.dll",
+        "lib/net461/UiPath.MicrosoftTeams.xml",
+        "uipath.microsoftteams.activities.0.4.0.nupkg.sha512",
+        "uipath.microsoftteams.activities.nuspec"
+      ]
+    },
     "UiPath.OCR.Contracts/2.3.0-preview": {
       "sha512": "2nP18uBL9osLA4/gKzrF/1yxt3c/b73cpPvC4yvu7qZcxM8jE5/fxlrKsiI8pYP7TazZhKGnpfqfN0F/kuBzFQ==",
       "type": "package",
@@ -1647,6 +1828,7 @@
       "UiPath.Credentials.Activities >= 1.1.6479.13204 <= 1.1.6479.13204",
       "UiPath.Excel.Activities >= 2.8.0-preview <= 2.8.0-preview",
       "UiPath.Mail.Activities >= 1.8.0-preview <= 1.8.0-preview",
+      "UiPath.MicrosoftTeams.Activities >= 0.4.0 <= 0.4.0",
       "UiPath.System.Activities >= 19.12.0-preview <= 19.12.0-preview",
       "UiPath.UIAutomation.Activities >= 19.12.0-preview <= 19.12.0-preview"
     ]
@@ -1680,6 +1862,11 @@
             "target": "Package",
             "version": "[1.8.0-preview, 1.8.0-preview]"
           },
+          "UiPath.MicrosoftTeams.Activities": {
+            "include": "Runtime",
+            "target": "Package",
+            "version": "[0.4.0, 0.4.0]"
+          },
           "UiPath.System.Activities": {
             "include": "Runtime",
             "target": "Package",
@@ -1693,5 +1880,28 @@
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU3034",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Graph.Core 1.17.0' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
+      "libraryId": "Microsoft.Graph.Core"
+    },
+    {
+      "code": "NU3034",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Graph.Beta 0.8.0-preview' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
+      "libraryId": "Microsoft.Graph.Beta"
+    },
+    {
+      "code": "NU3034",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Identity.Client 2.7.1' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
+      "libraryId": "Microsoft.Identity.Client"
+    }
+  ]
 }

@@ -9,7 +9,7 @@
         "C:\\Users\\ashis\\.nuget\\packages\\credentialmanagement/1.0.2\\lib/net35/CredentialManagement.dll",
         "C:\\Users\\ashis\\.nuget\\packages\\uipath.credentials.activities/1.1.6479.13204\\lib/net40-client/UiPath.Credentials.Activities.dll"
       ],
-      "Path": "C:\\Users\\ashis\\.nuget\\packages\\uipath.credentials.activities/1.1.6479.13204"
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\uipath.credentials.activities\\1.1.6479.13204"
     },
     {
       "Package": {
@@ -30,7 +30,7 @@
         "C:\\Users\\ashis\\.nuget\\packages\\uipath.excel.activities/2.8.0-preview\\lib/net461/UiPath.Excel.Activities.dll",
         "C:\\Users\\ashis\\.nuget\\packages\\uipath.excel.activities/2.8.0-preview\\lib/net461/UiPath.Excel.dll"
       ],
-      "Path": "C:\\Users\\ashis\\.nuget\\packages\\uipath.excel.activities/2.8.0-preview"
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\uipath.excel.activities\\2.8.0-preview"
     },
     {
       "Package": {
@@ -49,7 +49,7 @@
         "C:\\Users\\ashis\\.nuget\\packages\\uipath.mail.activities/1.8.0-preview\\lib/net461/UiPath.Mail.Activities.dll",
         "C:\\Users\\ashis\\.nuget\\packages\\uipath.mail.activities/1.8.0-preview\\lib/net461/UiPath.Mail.dll"
       ],
-      "Path": "C:\\Users\\ashis\\.nuget\\packages\\uipath.mail.activities/1.8.0-preview"
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\uipath.mail.activities\\1.8.0-preview"
     },
     {
       "Package": {
@@ -74,7 +74,7 @@
         "C:\\Users\\ashis\\.nuget\\packages\\uipath.system.activities/19.12.0-preview\\lib/net461/UiPath.System.Activities.Design.dll",
         "C:\\Users\\ashis\\.nuget\\packages\\uipath.system.activities/19.12.0-preview\\lib/net461/UiPath.System.Activities.dll"
       ],
-      "Path": "C:\\Users\\ashis\\.nuget\\packages\\uipath.system.activities/19.12.0-preview"
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\uipath.system.activities\\19.12.0-preview"
     },
     {
       "Package": {
@@ -118,7 +118,24 @@
         "C:\\Users\\ashis\\.nuget\\packages\\uipath.vision/2.0.0\\lib/net452/UiPath.Vision.Tesseract.dll",
         "C:\\Users\\ashis\\.nuget\\packages\\uipath.vision/2.0.0\\lib/net452/UiPath.Vision.dll"
       ],
-      "Path": "C:\\Users\\ashis\\.nuget\\packages\\uipath.uiautomation.activities/19.12.0-preview"
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\uipath.uiautomation.activities\\19.12.0-preview"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.MicrosoftTeams.Activities",
+        "Version": "0.4.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\microsoft.graph.beta/0.8.0-preview\\lib/net45/Microsoft.Graph.Beta.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\microsoft.graph.core/1.17.0\\lib/net45/Microsoft.Graph.Core.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\microsoft.identity.client/2.7.1\\lib/net45/Microsoft.Identity.Client.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.microsoftteams.activities/0.4.0\\lib/net461/UiPath.MicrosoftTeams.Activities.Design.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.microsoftteams.activities/0.4.0\\lib/net461/UiPath.MicrosoftTeams.Activities.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.microsoftteams.activities/0.4.0\\lib/net461/UiPath.MicrosoftTeams.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\uipath.microsoftteams.activities\\0.4.0"
     }
   ],
   "Conflicts": [],
@@ -186,6 +203,39 @@
     "Microsoft.Exchange.WebServices": {
       "Id": "Microsoft.Exchange.WebServices",
       "Version": "2.2.0",
+      "Dependencies": []
+    },
+    "Microsoft.Graph.Beta": {
+      "Id": "Microsoft.Graph.Beta",
+      "Version": "0.8.0-preview",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Graph.Core",
+          "Item2": "[1.17.0, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[6.0.1, )"
+        }
+      ]
+    },
+    "Microsoft.Graph.Core": {
+      "Id": "Microsoft.Graph.Core",
+      "Version": "1.17.0",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[6.0.1, )"
+        },
+        {
+          "Item1": "System.ValueTuple",
+          "Item2": "[4.3.0, )"
+        }
+      ]
+    },
+    "Microsoft.Identity.Client": {
+      "Id": "Microsoft.Identity.Client",
+      "Version": "2.7.1",
       "Dependencies": []
     },
     "Microsoft.Rest.ClientRuntime": {
@@ -292,6 +342,28 @@
         {
           "Item1": "interop.domino.dll",
           "Item2": "[1.0.0, )"
+        }
+      ]
+    },
+    "UiPath.MicrosoftTeams.Activities": {
+      "Id": "UiPath.MicrosoftTeams.Activities",
+      "Version": "0.4.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Graph.Beta",
+          "Item2": "[0.8.0-preview, )"
+        },
+        {
+          "Item1": "Microsoft.Graph.Core",
+          "Item2": "[1.17.0, )"
+        },
+        {
+          "Item1": "Microsoft.Identity.Client",
+          "Item2": "[2.7.1, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[10.0.3, )"
         }
       ]
     },
@@ -486,6 +558,36 @@
     },
     {
       "Package": {
+        "Id": "Microsoft.Graph.Beta",
+        "Version": "0.8.0-preview"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\microsoft.graph.beta\\0.8.0-preview\\lib\\net45\\Microsoft.Graph.Beta.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\microsoft.graph.beta\\0.8.0-preview"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Graph.Core",
+        "Version": "1.17.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\microsoft.graph.core\\1.17.0\\lib\\net45\\Microsoft.Graph.Core.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\microsoft.graph.core\\1.17.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Identity.Client",
+        "Version": "2.7.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\microsoft.identity.client\\2.7.1\\lib\\net45\\Microsoft.Identity.Client.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\microsoft.identity.client\\2.7.1"
+    },
+    {
+      "Package": {
         "Id": "Microsoft.Rest.ClientRuntime",
         "Version": "2.3.20"
       },
@@ -592,6 +694,18 @@
         "C:\\Users\\ashis\\.nuget\\packages\\uipath.mail.activities\\1.8.0-preview\\lib\\net461\\UiPath.Mail.dll"
       ],
       "Path": "C:\\Users\\ashis\\.nuget\\packages\\uipath.mail.activities\\1.8.0-preview"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.MicrosoftTeams.Activities",
+        "Version": "0.4.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.microsoftteams.activities\\0.4.0\\lib\\net461\\UiPath.MicrosoftTeams.Activities.Design.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.microsoftteams.activities\\0.4.0\\lib\\net461\\UiPath.MicrosoftTeams.Activities.dll",
+        "C:\\Users\\ashis\\.nuget\\packages\\uipath.microsoftteams.activities\\0.4.0\\lib\\net461\\UiPath.MicrosoftTeams.dll"
+      ],
+      "Path": "C:\\Users\\ashis\\.nuget\\packages\\uipath.microsoftteams.activities\\0.4.0"
     },
     {
       "Package": {

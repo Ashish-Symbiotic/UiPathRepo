@@ -6,6 +6,7 @@
     "UiPath.Credentials.Activities": "[1.1.6479.13204]",
     "UiPath.Excel.Activities": "[2.8.0-preview]",
     "UiPath.Mail.Activities": "[1.8.0-preview]",
+    "UiPath.MicrosoftTeams.Activities": "[0.4.0]",
     "UiPath.System.Activities": "[19.12.0-preview]",
     "UiPath.UIAutomation.Activities": "[19.12.0-preview]"
   },
